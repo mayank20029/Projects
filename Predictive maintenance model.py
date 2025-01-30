@@ -1,4 +1,4 @@
-#Objective is to predict the failure of machine as binary output (0 or 1)
+#Objective is to predict the failure of machine as multiclass output (o to 4)
 #I will be comparing most frequently known classification models . i.e. Logistic, SVM (rbf), Random forest, Naive bayes, ANN 
 
 #*******************Model 1 - Logistic regression************************
