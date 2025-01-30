@@ -1,2 +1,2 @@
 # Projects
-Working code for different use cases
+## Predictive maintenance model
